@@ -1,0 +1,31 @@
+Owner,Vehical Name,Vehical Make,Vehical Type,Age,Kilometers Driven,1st Hand,2nd Hand,Register Number,Owner Occupation
+Rama,Honda Fit,Honda,Hatchbacks,2.0,180,0,1,AP26DQ5421,STUDENT
+Krishna,Ford Focus,Ford,Hatchbacks,1.0,56,0,1,TS98WQ1234,FARMER
+Siri,Ford Focus,Ford,Hatchbacks,0.5,60,1,0,KA98EQ9531,PROFESSOR
+Krithi,Ford Fiesta,Ford,Hatchbacks,2.0,305,0,1,TS18SP7531,BUSINESS
+Yash,Honda Fit,Honda,Hatchbacks,4.0,500,1,0,DL43CP6532,DRIVER
+Fransis,Honda Amaze,Honda,Sedans,2.0,187,1,0,AP65YS5434,ARTIST
+Hardin,Tata Tigor,Tata Motors,Sedans,2.5,542,0,1,HR36WT6432,POET
+Hrithik,Hyundai Aura,Hyundai,Sedans,3.0,800,0,1,AP98FE1276,MANAGER
+Jasmin,Tata Tigor,Tata Motors,Sedans,1.5,300,1,0,KA65US4322,DIRECTOR
+Arha,Hyundai Aura,Hyundai,Sedans,2.0,400,0,1,AP74GT1346,MECHANIC
+Preetham,Honda CRV,Honda,Crossovers,0.5,100,1,0,AP54EV7423,DANCER
+Armana,Toyota RAV4,Toyota,Crossovers,1.0,600,1,0,TS75RV5316,POLITICIAN
+Anjali,Toyota RAV4,Ford,Crossovers,1.5,423,1,0,KA52UE8326,PROFESSOR
+Aman,Kia sportage,Kia,Crossovers,4.0,1305,0,1,TS54JY9158,WORKER
+Banu,Honda CRV,Honda,Crossovers,1.0,700,1,0,DL35EG9763,DRIVER
+kiran,Mahindra Thar,Mahindra,SUVs,0.5,235,1,0,AP86GQ1693,MANAGER
+David,Chevrolet Suburban,Chevrolet,SUVs,1.5,831,0,1,HR73YA1246,PRINCIPLE
+Yathra,Chevrolet Suburban,Chevrolet,SUVs,3.5,800,0,1,MH74OE4621,SECURITY
+James,Mahindra Thar,Mahindra,SUVs,2.5,622,1,0,AS22UY3449,REPORTER
+Tarak,Mahindra Thar,Mahindra,SUVs,2.0,400,0,1,TS64BG1259,MECHANIC
+Jaswanth,Audi Q7,Audi,Preminum_SUVs,2.5,1000,1,0,AP94KQ1579,STUDENT
+Kris,Jaguar F-Pace,Jaguar,Preminum_SUVs,5.0,2000,0,1,MH53RV2475,BUSINESS
+Calra,Audi Q7,Audi,Preminum_SUVs,1.5,400,1,0,KA54EQ9221,ACTOR
+chaitu,Audi Q5,Audi,Preminum_SUVs,1.4,405,0,1,TS65GK1964,DANCER
+shanthi,Jaguar F-Pace,Jaguar,Preminum_SUVs,1.0,600,1,0,DL53HB8431,CAMERAMAN
+Satya,Chrysler 300,Stellantis,Limousine,1.0,400,0,1,AS54KZ8521,ACTOR
+Katumala,Cadillac XTS,Cadillac,Limousine,2.5,1343,0,1,MH53LX7632,WORKER
+Raghava,Chrysler 300,Stellantis,Limousine,1.0,2000,1,0,AP03JN6420,DANCER
+sangeetha,Lincoln Town Car,Ford,Limousine,0.5,50,0,1,KA43MT8620,REPORTER
+Jannu,Cadillac XTS,Cadillac,Limousine,1.0,700,1,0,TS65VT5328,DIRECTOR
